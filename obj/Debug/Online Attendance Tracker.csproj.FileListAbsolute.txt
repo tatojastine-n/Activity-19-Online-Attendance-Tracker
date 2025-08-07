@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Online Attendance Tracker\bin\Debug\Online Attendance Tracker.exe.config
+C:\Users\HP\source\repos\Online Attendance Tracker\bin\Debug\Online Attendance Tracker.exe
+C:\Users\HP\source\repos\Online Attendance Tracker\bin\Debug\Online Attendance Tracker.pdb
+C:\Users\HP\source\repos\Online Attendance Tracker\obj\Debug\Online Attendance Tracker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Online Attendance Tracker\obj\Debug\Online Attendance Tracker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Online Attendance Tracker\obj\Debug\Online Attendance Tracker.exe
+C:\Users\HP\source\repos\Online Attendance Tracker\obj\Debug\Online Attendance Tracker.pdb
